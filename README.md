@@ -10,10 +10,11 @@ TurismRadar is a geospatial machine learning engine designed to isolate genuine 
 - **Huber Loss Optimization:** Robust regression ($\alpha = 1.0$) suppresses extreme transaction outliers without warping true destination baselines.
 - **Explainability (SHAP):** Full model transparency with per-municipality feature attribution waterfall plots.
 
-## Results
-* `Ostersund_accessibility_map.pdf`: Exported cartographic map showcasing analysis outputs.
-[![Östersund Accessibility Map](Qgis_Ostersund.png)](Ostersund_accessibility_map.pdf)
+## Results 
+De-biasing municipal metrics via spatial anomaly detection to prevent border trade and transit noise from skewing regional development funds. (Aligned with Tillväxtverket Inkvarteringsstatistik)
 
+![TurismRadar Spatial Analysis Map_1st_part](1.png)
+![TurismRadar Spatial Analysis Map_2nd_part](2.png)
 
 
 ## Quickstart
