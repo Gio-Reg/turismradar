@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+denv/
+.streamlit/secrets.toml
+data/*.geojson

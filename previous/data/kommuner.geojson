@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "kommuner",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "kommun_code": "0180", "kommun_name": "Stockholm", "P_population": 980000, "G_overnight_stays": 4500000, "C_bed_capacity": 25000, "S_total_spend": 12000000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.9686, 59.2293 ], [ 18.1686, 59.2293 ], [ 18.1686, 59.4293 ], [ 17.9686, 59.4293 ], [ 17.9686, 59.2293 ] ] ] } },
+{ "type": "Feature", "properties": { "kommun_code": "0980", "kommun_name": "Gotland", "P_population": 61000, "G_overnight_stays": 1200000, "C_bed_capacity": 8000, "S_total_spend": 2200000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.4, 57.4 ], [ 18.6, 57.4 ], [ 18.6, 57.6 ], [ 18.4, 57.6 ], [ 18.4, 57.4 ] ] ] } },
+{ "type": "Feature", "properties": { "kommun_code": "2321", "kommun_name": "Åre", "P_population": 12000, "G_overnight_stays": 950000, "C_bed_capacity": 12000, "S_total_spend": 1800000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.9815, 63.299 ], [ 13.1815, 63.299 ], [ 13.1815, 63.499 ], [ 12.9815, 63.499 ], [ 12.9815, 63.299 ] ] ] } },
+{ "type": "Feature", "properties": { "kommun_code": "1486", "kommun_name": "Strömstad", "P_population": 13000, "G_overnight_stays": 300000, "C_bed_capacity": 3000, "S_total_spend": 4500000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11.0736, 58.8383 ], [ 11.2736, 58.8383 ], [ 11.2736, 59.0383 ], [ 11.0736, 59.0383 ], [ 11.0736, 58.8383 ] ] ] } },
+{ "type": "Feature", "properties": { "kommun_code": "0191", "kommun_name": "Sigtuna", "P_population": 50000, "G_overnight_stays": 400000, "C_bed_capacity": 4000, "S_total_spend": 3800000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 17.6233, 59.5173 ], [ 17.8233, 59.5173 ], [ 17.8233, 59.7173 ], [ 17.6233, 59.7173 ], [ 17.6233, 59.5173 ] ] ] } }
+]
+}
